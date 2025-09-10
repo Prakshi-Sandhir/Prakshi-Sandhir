@@ -5,20 +5,17 @@ I'm a Computer Science Engineering student specializing in **Big Data Analytics*
 
 ---
 
-### 💻 About Me:
-- 🎯 Focused on **data analysis and visualization** using tools like Power BI, Excel, and Python.
-- 🌐 Passionate about designing interactive dashboards and web-based visual platforms.
+###  About Me:
+- 🎓 Computer Science Engineering (Big Data Analytics), Chandigarh University
+- 📊 Passionate about data analysis & visualization
+- 🌐 Skilled in creating interactive dashboards & visual platforms
 ---
 
-### 🚀 What I Do:
-- 📊 Build data-driven dashboards for industries like automotive.
-- 🔍 Explore real-world data and turn it into compelling stories.
----
+###  What I Do:
+- Build data-driven dashboards (Power BI, Python, Excel)
+- Translate complex data into clear insights
+- Mix analytics with creativity for impactful storytelling
 
-### ✨ Fun Things:
-- 🧩 Love to doodle and add flair to everything I design.
-- 🎨 Neon-themed visuals are my aesthetic.
-- 📚 Always growing, always curious — one dashboard at a time!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakshi-sandhir-80ba3a290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prakshisandhir37@gmail.com) 
